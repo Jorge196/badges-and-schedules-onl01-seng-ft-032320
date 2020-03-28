@@ -16,10 +16,9 @@ end
 
 def assign_rooms(array)
   new_array = []
-  counter = 1 
-  array.each do |name| 
+  counter = 1
+  array.each do |name|
     return "Hello, #{name}! You'll be assigned to room #{counter}!"
       counter += 1
-  end 
-end 
-  
+  end
+end
