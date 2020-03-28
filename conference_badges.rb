@@ -25,5 +25,6 @@ def assign_rooms(array)
 end
 
 
-def printer
+def printer(array) 
+  badges_and_room_assignments.each_line do |
   
