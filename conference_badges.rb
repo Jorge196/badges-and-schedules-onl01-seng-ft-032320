@@ -4,10 +4,10 @@ def badge_maker(name)
 
 end
 
-  attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  speakers_array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def batch_badge_creator(attendees)
+def batch_badge_creator(speaker)
 
-  puts "Hello, my name is #{attendees}"
+  puts "Hello, my name is #{speaker}"
 
 end
