@@ -26,4 +26,4 @@ end
 
 
 def printer(array)
-  badges_and_room_assignments.each_line do |
+  batch_badge_creator.each_line do |
