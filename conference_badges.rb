@@ -1,8 +1,7 @@
 # Write your code here.
 def badge_maker(name)
-
   puts "Hello, my name is #{name}."
-
+  end
 end
 
   speakers_lineup = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
